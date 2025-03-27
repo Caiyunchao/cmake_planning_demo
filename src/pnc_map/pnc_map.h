@@ -1,8 +1,8 @@
 #pragma once
 
-class PNC_Map
+class PNCMap
 {
 public:
 	void mapInfo();
     
-}
+};
